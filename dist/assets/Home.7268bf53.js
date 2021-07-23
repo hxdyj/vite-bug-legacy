@@ -1,0 +1,1 @@
+import{d as o,u as t,o as n,c as a,a as u}from"./vendor.a3cce275.js";const e=u("h1",null,"Home",-1);var s=o({setup(o){let s=t();function c(){s.push({name:"custom"})}function m(){s.push({name:"vant"})}return(o,t)=>(n(),a("div",null,[e,u("button",{onClick:c},"Go to Custom comp page"),u("button",{onClick:m},"Go to Vant comp page")]))}});export default s;
